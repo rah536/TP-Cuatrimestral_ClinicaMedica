@@ -3,4 +3,6 @@ Administrador de turnos ClinicaMedica  / .Net ASP C# SQLServer HTML CSS Bootstra
 
 SISTEMA DE GESTION DE TURNOS DE UNA CLINICA MEDICA
 
+Proyecto académico correspondiente a la materia Programación III, parte del 2° Año de la Tecnicatura en Programación de la UTN (FRGP)
+
 [Proyecto en Desarrollo]
