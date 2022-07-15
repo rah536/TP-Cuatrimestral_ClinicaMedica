@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Dominio\obj\Debug\Dominio.pdb

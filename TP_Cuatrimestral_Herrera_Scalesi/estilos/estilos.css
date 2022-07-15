@@ -1,0 +1,66 @@
+﻿#estiloCardLogin {
+    background-color: lightblue;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align:center;
+    margin-top:100px;
+    border-radius:30px;
+}
+
+.estiloBody{
+
+    background-color:lightgray;
+}
+
+#estiloModificarDiagnostico {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+#estiloCardRecepcionistaPrincipal {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    text-align:center;
+}
+
+#estiloCardRoles {
+    background-color: darkcyan;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+#estiloCardRecepcionistaEsp {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+#estiloRecepcionistaNuevoPaciente {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+#estiloRecepcionistaBrindarTurno {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+#estiloRecepcionistaListadoPacientes {
+
+}
+
+.oculto{
+    display: none;
+}
+
+#estiloCardAdmin {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    text-align: center;
+}

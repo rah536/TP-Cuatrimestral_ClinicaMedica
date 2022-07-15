@@ -1,0 +1,66 @@
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPCuatrimestral1106\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral1\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\TP_Cuatrimestral2\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TP_Cuatrimestral\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.dll
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\tpcbaCK\TP_Cuatrimestral_Herrera_Scalesi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
