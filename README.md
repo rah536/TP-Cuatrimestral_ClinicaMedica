@@ -1,6 +1,6 @@
 # TP-Cuatrimestral_ClinicaMedica
 Administrador de turnos ClinicaMedica  / 
-Proyeco desarrollado en .Net ASP *C# *SQLServer *HTML *CSS *Bootstrap
+Proyecto desarrollado en .Net ASP Webform empleando C# / SQLServer / HTML CSS Bootstrap
 
 SISTEMA DE GESTION DE TURNOS DE UNA CLINICA MEDICA
 
